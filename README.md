@@ -12,3 +12,5 @@
  
  => Admin creating new user:-
  ![image](https://github.com/prathamgoyal07/LoginDashboard/assets/65220090/140818ee-8c12-4641-abb3-68a9f2ba8b49)
+
+=> to run the backend create a env file as given in env example and paste the mongodb url.
